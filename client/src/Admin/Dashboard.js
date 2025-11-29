@@ -44,6 +44,7 @@ const Dashboard = () => {
                 </div>
                  <div className=" hello_admin">
                             <p>Hello, {"admin"}</p>
+                             <p>Hi, {"admin"}</p>
                             <img src="/favicon.jpg" alt="img" />
                         </div>
                 <div className="nav__container">
