@@ -42,6 +42,10 @@ const Dashboard = () => {
                         Brewtopia
                     </p>
                 </div>
+                 <div className=" hello_admin">
+                            <p>Hello, {"admin"}</p>
+                            <img src="/favicon.jpg" alt="img" />
+                        </div>
                 <div className="nav__container">
                     <div className="search__div">
                         <input
